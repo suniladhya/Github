@@ -8,3 +8,20 @@ My Github Learnings
 ## Create New Branch
 
 ## Merge Branch
+
+## Git Commands
+git config user.name "name"
+git config user.email "email"
+git init
+git remote
+git remote -v
+
+git remote add <name> <url>
+
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:codewithbraja/CustomComponents001.git
+git push -u origin master
+  
+git fetch --dry-run
+
