@@ -22,3 +22,5 @@ My Github Learnings
 * git push -u origin master
 * git fetch --dry-run
 
+## Git Errors & fix
+1. remote: HTTP Basic: Access denied : Change password in Credential Manager
