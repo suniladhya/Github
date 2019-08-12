@@ -1,11 +1,17 @@
 # Github
 My Github Learnings
 [[Visual Notes]](https://www.draw.io)
-[[1]](https://www.youtube.com/watch?v=3a2x1iJFJWc)
+[[1]](https://www.youtube.com/watch?v=3a2x1iJFJWc)|[[2]](https://guide.freecodecamp.org/git/git-pull/)
 
 ![](https://i.ibb.co/0X29fQ2/Git-Work-Flow.png)
 
 ## Create New Branch
+* Creating a new branch from an existing branch and checkout the newly created branch: git checkout -b <branch-Name>
+  
+## Pull
+git pull is a combination command, equal to git fetch + git merge.
+* git pull
+* git pull 
 
 ## Merge Branch
 
@@ -24,3 +30,6 @@ My Github Learnings
 
 ## Git Errors & fix
 1. remote: HTTP Basic: Access denied : Change password in Credential Manager
+
+## Upstream & Downstream
+When talking about a branch or a fork, the primary branch on the original repository is often referred to as the "upstream", since that is the main place that other changes will come in from. The branch/fork you are working on is then called the "downstream".
