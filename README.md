@@ -33,3 +33,13 @@ git pull is a combination command, equal to git fetch + git merge.
 
 ## Upstream & Downstream
 When talking about a branch or a fork, the primary branch on the original repository is often referred to as the "upstream", since that is the main place that other changes will come in from. The branch/fork you are working on is then called the "downstream".
+
+## Local repository in github
+1. Create a remote repository in github
+2. Delete all the git files in local project folder:rd .git/S/Q
+3. git init
+4. git add .
+5. git commit -m "ur message"
+6. git remote add origin **link**
+7. git push -u orgin master
+
