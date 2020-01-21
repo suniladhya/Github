@@ -43,3 +43,7 @@ When talking about a branch or a fork, the primary branch on the original reposi
 6. git remote add origin **link**
 7. git push -u orgin master
 
+## Remote branch delete
+1. git branch -d branch_name
+2. git push <remote_name> --delete <branch_name> (options can also be used if you want to delete a “tag")
+3. git push -d (push your local branch to remote and delete your local)
