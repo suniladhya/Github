@@ -1,7 +1,7 @@
 # Github
 My Github Learnings
 [[Visual Notes]](https://www.draw.io)
-[[1]](https://www.youtube.com/watch?v=3a2x1iJFJWc)|[[2]](https://guide.freecodecamp.org/git/git-pull/)
+[[1]](https://www.youtube.com/watch?v=3a2x1iJFJWc)|[[2]](https://guide.freecodecamp.org/git/git-pull/)|[[3]](https://help.github.com/en/github/using-git/about-remote-repositories)
 
 ![](https://i.ibb.co/0X29fQ2/Git-Work-Flow.png)
 
@@ -14,6 +14,19 @@ git pull is a combination command, equal to git fetch + git merge.
 * git pull 
 
 ## Merge Branch
+* Merge current branch to change of any other branch 
+* git merge <branch-Name> 
+
+## Stash [[1]](https://www.atlassian.com/git/tutorials/saving-changes/git-stash#re-applying-your-stashed-changes)
+* It is the process of keeping the current changes and pulling the lattest from remote.
+* It is also useful while switching from one branch to another branch without loosing the current change
+* They are stored in the stack format
+* git stash
+* git stash save "add style to our site"
+* git stash apply
+* git satash pop
+* git stash list
+* git stash clear
 
 ## Git Commands
 * git config user.name "name"
@@ -27,6 +40,7 @@ git pull is a combination command, equal to git fetch + git merge.
 * git remote add origin git@github.com:codewithbraja/CustomComponents001.git
 * git push -u origin master
 * git fetch --dry-run
+* git log --oneline --graph
 
 ## Git Errors & fix
 1. remote: HTTP Basic: Access denied : Change password in Credential Manager
