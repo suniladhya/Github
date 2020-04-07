@@ -31,7 +31,7 @@ git pull is a combination command, equal to git fetch + git merge.
 ## Git Commands
 * git config user.name "name"
 * git config user.email "email"
-* git init
+* git init (Atleast one commit to see master branch listed by the git branch command)
 * git remote
 * git remote -v
 * git remote add <name> <url>
