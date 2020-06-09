@@ -22,11 +22,16 @@ git pull is a combination command, equal to git fetch + git merge.
 * It is also useful while switching from one branch to another branch without loosing the current change
 * They are stored in the stack format
 * git stash
-* git stash save "add style to our site"
 * git stash apply
-* git satash pop
+* git stash drop
+* git stash save "add style to our site"
 * git stash list
+* git stash show stash@{0}
+* git stash apply stash@{0}
+* git stash drop stash@{0}
 * git stash clear
+* git stash -u
+* git stash branch "new_Changes"
 
 ## Git Commands
 * git config user.name "name"
@@ -61,3 +66,6 @@ When talking about a branch or a fork, the primary branch on the original reposi
 1. git branch -d branch_name
 2. git push <remote_name> --delete <branch_name> (options can also be used if you want to delete a “tag")
 3. git push -d (push your local branch to remote and delete your local)
+
+## Log
+* git log --online --decorate --graph --all
