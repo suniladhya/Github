@@ -2,6 +2,7 @@
 My Github Learnings
 [[Visual Notes]](https://www.draw.io)
 [[1]](https://www.youtube.com/watch?v=3a2x1iJFJWc)|[[2]](https://guide.freecodecamp.org/git/git-pull/)|[[3]](https://help.github.com/en/github/using-git/about-remote-repositories)
+| [MarkDown Code blocks](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
 
 ![](https://i.ibb.co/0X29fQ2/Git-Work-Flow.png)
 
