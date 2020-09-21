@@ -70,3 +70,8 @@ When talking about a branch or a fork, the primary branch on the original reposi
 
 ## Log
 * git log --online --decorate --graph --all
+
+## Undo Commit
+* git reset --soft HEAD~1
+
+After running the command, you'll find the changes as uncommitted local modifications in your working copy.
