@@ -18,6 +18,7 @@ git pull is a combination command, equal to git fetch + git merge.
 ## Merge Branch
 * Merge current branch to change of any other branch 
 * git merge <branch-Name> 
+* git merge <branch-name> --no-commit --no-ff
 
 ## Stash [[1]](https://www.atlassian.com/git/tutorials/saving-changes/git-stash#re-applying-your-stashed-changes)
 * It is the process of keeping the current changes and pulling the lattest from remote.
