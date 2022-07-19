@@ -49,6 +49,7 @@ git pull is a combination command, equal to git fetch + git merge.
 * git push -u origin master
 * git fetch --dry-run
 * git log --oneline --graph
+* git remote show origin
 
 ## Git Errors & fix
 1. remote: HTTP Basic: Access denied : Change password in Credential Manager
