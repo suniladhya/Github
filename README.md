@@ -78,3 +78,8 @@ When talking about a branch or a fork, the primary branch on the original reposi
 * git reset --soft HEAD~1
 
 After running the command, you'll find the changes as uncommitted local modifications in your working copy.
+
+# Using personal access Token
+https://<github-username>:<github-token>@github.com/<your-repository>.git
+eg. https://suniladhya:<github-token>@github.com/<your-repository>.git
+
