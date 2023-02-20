@@ -84,3 +84,7 @@ After running the command, you'll find the changes as uncommitted local modifica
 https://<github-username>:<github-token>@github.com/<your-repository>.git
 eg. https://suniladhya:<github-token>@github.com/<your-repository>.git
 ```
+# History of changes on a file
+```
+git log --all --full-history -- "**/thefile.*"
+```
