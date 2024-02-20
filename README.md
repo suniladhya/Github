@@ -88,3 +88,11 @@ eg. https://suniladhya:<github-token>@github.com/<your-repository>.git
 ```
 git log --all --full-history -- "**/thefile.*"
 ```
+
+To write a commit message and get out of VI, follow these steps:
+
+press i (i for insert)
+write your merge message
+press esc (escape)
+write :wq (write & quit)
+then press enter
