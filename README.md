@@ -4,6 +4,7 @@ My Github Learnings
 [[1]](https://www.youtube.com/watch?v=3a2x1iJFJWc)|[[2]](https://guide.freecodecamp.org/git/git-pull/)|[[3]](https://help.github.com/en/github/using-git/about-remote-repositories)
 | [MarkDown Code blocks](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
 | [Undo commit](https://www.git-tower.com/learn/git/faq/undo-last-commit)
+| [Setup SSH](https://media.licdn.com/dms/image/D4E22AQEpruS9KkFi1w/feedshare-shrink_1280/0/1710072382821?e=1712793600&v=beta&t=xPAniq59aQti22T90UzIaoa56-LIqTpZrxBS0ExlLw8)
 
 ![](https://i.ibb.co/0X29fQ2/Git-Work-Flow.png)
 
